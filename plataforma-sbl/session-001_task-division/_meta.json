@@ -1,0 +1,21 @@
+{
+  "workspace": "plataforma-sbl",
+  "topic": "task-division",
+  "number": 1,
+  "folder": "session-001_task-division",
+  "goal": "Divide the 6 Plataforma SBL phases between two developers (ale + felipe) and align on who owns what before we start building.",
+  "status": "active",
+  "created_by": "ale",
+  "created_at": "2026-08-16T14:55:18Z",
+  "closed_at": null,
+  "closed_by": null,
+  "prior_session": null,
+  "participants": ["ale"],
+  "last_save_by": null,
+  "last_save_at": null,
+  "total_saves": 0,
+  "open_question_count": 0,
+  "published_url": null,
+  "published_discussion_id": null,
+  "open_questions": []
+}

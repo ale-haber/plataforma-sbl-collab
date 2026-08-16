@@ -5,7 +5,22 @@
       "workspace": "plataforma-sbl",
       "created_by": "ale",
       "created_at": "2026-08-16T14:19:34Z",
-      "sessions": []
+      "sessions": [
+        {
+          "number": 1,
+          "topic": "task-division",
+          "folder": "session-001_task-division",
+          "status": "active",
+          "created_by": "ale",
+          "created_at": "2026-08-16T14:55:18Z",
+          "closed_at": null,
+          "last_save_by": null,
+          "last_save_at": null,
+          "total_saves": 0,
+          "open_question_count": 0,
+          "prior_session": null
+        }
+      ]
     }
   ]
 }
